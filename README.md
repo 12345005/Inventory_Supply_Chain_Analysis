@@ -89,10 +89,10 @@ The findings highlight inventory risks, sales performance differences, and suppl
 ## Dashboard Screenshots
 
 ### Inventory Dashboard
-![Inventory Dashboard](image/Inventory-dashboard.png)
+![Inventory Dashboard](image/inventory-dashboard.png)
 
 ### Sales Dashboard
-![Sales Dashboard](image/Sales-dashboard.png)
+![Sales Dashboard](image/sales-dashboard.png)
 
 ### Purchases Dashboard
-![Purchases Dashboard](image/Purchases-dashboard.png)
+![Purchases Dashboard](image/purchases-dashboard.png)
