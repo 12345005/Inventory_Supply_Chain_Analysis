@@ -85,3 +85,14 @@ The project includes three interactive Excel dashboards:
 This project demonstrates how Excel can be used to transform multiple operational datasets into structured analysis and interactive dashboards.
 
 The findings highlight inventory risks, sales performance differences, and supplier cost variations that can help businesses make more informed operational decisions.
+
+## Dashboard Screenshots
+
+### Inventory Dashboard
+![Inventory Dashboard](image/inventory-dashboard.png)
+
+### Sales Dashboard
+![Sales Dashboard](image/sales-dashboard.png)
+
+### Purchases Dashboard
+![Purchases Dashboard](image/purchases-dashboard.png)
